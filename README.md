@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rosemary, a backend developer 👩‍💻
+### <div align="center">I'm Rosemary, a software developer 👩‍💻
   <div align="center">—fallen in love with Java, chess, and good books 💬</div>  
 
 <br/>  
