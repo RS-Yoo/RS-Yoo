@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Rosemary, a software developer 👩‍💻
-  <div align="center">—fallen in love with Java, chess, and good books 💬</div>  
+### <div align="center">I'm Rosemary, 👩‍💻
+  <div align="center">—rising senior in Computer Science, graduating May 2023 💬</div>  
 
 <br/>  
 
